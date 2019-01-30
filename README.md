@@ -1,3 +1,5 @@
+Curso realizado na alura (https://cursos.alura.com.br/recommendations/course/865).
+
 # Alurapic
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.0.6.
